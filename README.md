@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tien-vo
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python, Oracle SQL Developer
+- 👀 I’m interested in improving my application development ability.
+- 🌱 I’m currently learning python, Oracle SQL Developer, RStudio.
 - 💞️ I’m looking to collaborate on interesting project.
 
 <!---
